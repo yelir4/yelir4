@@ -1,5 +1,9 @@
-### Hi there 👋
+# HI
 
+i'm riley, a junior at santa clara university, studying computer science and engineering. welcome to my profile
+
+if you'd like you can view my [linkedin](https://www.linkedin.com/in/rileyguioguio/) and my [portfolio website](https://yelir4.github.io/)
+thanks! 🙂
 <!--
 **yelir4/yelir4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

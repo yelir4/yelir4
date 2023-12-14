@@ -1,4 +1,4 @@
-# HI
+### HI
 
 i'm riley, a junior at santa clara university, studying computer science and engineering. welcome to my profile
 
